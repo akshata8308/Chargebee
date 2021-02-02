@@ -1,0 +1,100 @@
+.font{
+    font-style: inherit oblique;
+    letter-spacing: 1px;
+}
+
+.custom-shape-divider-top-1612167412 {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    background-color: rgb(56, 39, 155);
+}
+
+.custom-shape-divider-top-1612167412 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 89px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1612167412 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.appbar {
+    cursor: pointer;
+}
+
+.tab1 {
+    background: #134e5e; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #134e5e, #71b280); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #134e5e, #71b280); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    padding: 5% 0 0 5%;
+    border-radius: 0 15% 15% 0;
+    color: white;
+}
+
+.tab1-2 {
+    padding-Top: 7%;
+    padding-bottom: 3%;
+}
+
+.tab2 {
+    
+    background: #1e3c72;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #2a5298, #1e3c72);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #2a5298, #1e3c72); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    padding: 5% 0 0 5%;
+    border-radius: 0 15% 15% 0;
+    color: white;
+}
+
+.tab3 {
+    background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    
+    padding: 5% 0 0 5%;
+    border-radius: 0 15% 15% 0;
+    color: white;
+}
+
+
+.custom-shape-divider-bottom-1612272582 {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    background-color: rgb(56, 39, 155);
+}
+
+.custom-shape-divider-bottom-1612272582 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 63px;
+}
+
+.custom-shape-divider-bottom-1612272582 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(84, 16, 194, 0.952);
+    color: white;
+    text-align: center;
+ }
+
+
+ 
