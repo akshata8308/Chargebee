@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Chargebee/static/css/main.a7e35919.chunk.css",
+    "main.js": "/Chargebee/static/js/main.1b64667b.chunk.js",
+    "main.js.map": "/Chargebee/static/js/main.1b64667b.chunk.js.map",
+    "runtime-main.js": "/Chargebee/static/js/runtime-main.8ce0c0fe.js",
+    "runtime-main.js.map": "/Chargebee/static/js/runtime-main.8ce0c0fe.js.map",
+    "static/js/2.ebc7d456.chunk.js": "/Chargebee/static/js/2.ebc7d456.chunk.js",
+    "static/js/2.ebc7d456.chunk.js.map": "/Chargebee/static/js/2.ebc7d456.chunk.js.map",
+    "index.html": "/Chargebee/index.html",
+    "precache-manifest.c49d80c35ae796ea5a812f3afcc5575f.js": "/Chargebee/precache-manifest.c49d80c35ae796ea5a812f3afcc5575f.js",
+    "service-worker.js": "/Chargebee/service-worker.js",
+    "static/css/main.a7e35919.chunk.css.map": "/Chargebee/static/css/main.a7e35919.chunk.css.map",
+    "static/js/2.ebc7d456.chunk.js.LICENSE.txt": "/Chargebee/static/js/2.ebc7d456.chunk.js.LICENSE.txt",
+    "static/media/acc-logos.png": "/Chargebee/static/media/acc-logos.eafd49b9.png",
+    "static/media/chargebee.png": "/Chargebee/static/media/chargebee.d2d9d680.png",
+    "static/media/crm-logos.png": "/Chargebee/static/media/crm-logos.78fe49d4.png",
+    "static/media/recurring-billing-graphic.svg": "/Chargebee/static/media/recurring-billing-graphic.e9e4e361.svg",
+    "static/media/revenue-management.svg": "/Chargebee/static/media/revenue-management.cc801821.svg",
+    "static/media/revenue-operations-graphic.svg": "/Chargebee/static/media/revenue-operations-graphic.1c931554.svg",
+    "static/media/subscription-graphic.svg": "/Chargebee/static/media/subscription-graphic.1d1d54fb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ce0c0fe.js",
+    "static/js/2.ebc7d456.chunk.js",
+    "static/css/main.a7e35919.chunk.css",
+    "static/js/main.1b64667b.chunk.js"
+  ]
+}
